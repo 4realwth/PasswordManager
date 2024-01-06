@@ -11,6 +11,11 @@ Retrieve stored passwords.
 Delete stored passwords.
 Command-line interface for easy use.
 
+**Installation:**
+Prerequisites
+1. Python 3.x
+2. Pip (Python package installer)
+
 **Setup:**
 Clone the Repository
 git clone ***https://github.com/4realwth/PasswordManager.git***
